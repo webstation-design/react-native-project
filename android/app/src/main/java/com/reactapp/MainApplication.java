@@ -1,4 +1,4 @@
-package com.react_native_project;
+package com.reactapp;
 
 import android.app.Application;
 import android.content.Context;
