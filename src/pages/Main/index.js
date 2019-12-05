@@ -8,3 +8,7 @@ export default function Main() {
     <View />
   );
 }
+
+Main.navigationOptions = {
+  title: 'Usuários'
+}
